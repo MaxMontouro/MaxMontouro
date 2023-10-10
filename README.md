@@ -41,4 +41,9 @@ I currently use :
   </a>
 </p>
 
+<h1> OS : </h1> 
+I currently use :  
+<p align="center">
+    Debian addict, sometimes on Windows and Kali Linux and keen on discover new Linux distribution
+</p>
 
