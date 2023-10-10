@@ -18,7 +18,7 @@ More informations about me:
 -🔭 I’m currently working at IUT Bayonne et du Pays Basque  
 -🌱 I’m currently learning C++, JS, HTML5, CSS3, Python, SQL or bash  
 <p align="center">
-  ##My Contacts:  
+  ## My Contacts:  
   </a>
 </p>
 <p align="center">
