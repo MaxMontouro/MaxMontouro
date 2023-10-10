@@ -19,7 +19,7 @@ More informations about me:
 -🌱 I’m currently learning C++, JS, HTML5, CSS3, Python, SQL or bash  
 
 <p align="center">
-  My Contacts :  
+  #titre My Contacts :  
   </a>
 </p>
 <p align="center">
@@ -28,5 +28,14 @@ More informations about me:
   </a>
 </p>
 
+<p align="center">
+  My Contacts :  
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,linkedin,instagram" />
+  </a>
+</p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,java,cpp,linux,c,mysql,py,qt,vscode,php,powershell,idea&theme=dark)](https://skillicons.dev)
