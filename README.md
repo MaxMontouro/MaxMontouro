@@ -46,6 +46,9 @@ I currently use :
     Debian addict, sometimes on Windows and Kali Linux and keen on discover new Linux distribution
 </p>
 
-<h1> Setup : </h1> 
-*Laptop Dell Precision 3571 (i7-12700H, 32 GO DDR5, RTX A1000)  
+<h1> Setup : </h1>   
+<ul></ul>
+*Laptop Dell Precision 3571 (i7-12700H, 32 GO DDR5, RTX A1000)  </ul>
+<ul>
 *Personnal configuration (i9 9900k, 32 GO DDR4, GTX 1060 6 GO)  
+</ul>
