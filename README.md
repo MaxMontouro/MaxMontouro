@@ -34,12 +34,11 @@ More informations about me:
 </p>
 
 <h1> IDE : </h1> 
+I currently use :  
 <p align="center">
-  I currently use :   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,qt&theme=dark" />  
   </a>
 </p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=git,qt,vscode,idea&theme=dark)](https://skillicons.dev)
