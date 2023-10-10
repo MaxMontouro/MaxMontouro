@@ -35,9 +35,8 @@ More informations about me:
 
 <h1> IDE : </h1> 
 <p align="center">
-  I currently use :  
+  I currently use :   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,php,java,mysql,linux,powershell&theme=dark" />  
     <img src="https://skillicons.dev/icons?i=vscode,idea,qt&theme=dark" />  
   </a>
 </p>
