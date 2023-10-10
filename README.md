@@ -18,15 +18,10 @@ More informations about me:
 -🔭 I’m currently working at IUT Bayonne et du Pays Basque  
 -🌱 I’m currently learning C++, JS, HTML5, CSS3, Python, SQL or bash  
 
+###My Contacts :  
 <p align="center">
   <a href="https://skillicons.dev">
-    <p> My contacts</p>
-    <img src="https://skillicons.dev/icons?i=discord,linkedin"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=discord,linkedin," />
   </a>
 </p>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,java,cpp,linux,c,discord,instagram,mysql,linkedin,py,qt,vscode,php,powershell,idea&theme=dark)](https://skillicons.dev)
