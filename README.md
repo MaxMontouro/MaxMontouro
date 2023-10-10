@@ -19,7 +19,7 @@ More informations about me:
 -🌱 I’m currently learning C++, JS, HTML5, CSS3, Python, SQL or bash  
 
 <p align="center">
-  # My Contacts :  
+   <h1> My Contacts : </h1> 
   </a>
 </p>
 <p align="center">
