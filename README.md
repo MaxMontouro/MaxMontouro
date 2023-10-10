@@ -29,11 +29,18 @@ More informations about me:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,php,java,mysql,linux,powershell&theme=dark" />  
-    <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />  
+    <img src="https://skillicons.dev/icons?i=html,css,js,git&theme=dark" />  
+  </a>
+</p>
+
+<h1> IDE : </h1> 
+<p align="center">
+  I currently use :  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,php,java,mysql,linux,powershell&theme=dark" />  
+    <img src="https://skillicons.dev/icons?i=vscode,idea,qt&theme=dark" />  
   </a>
 </p>
 
 
-
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,java,cpp,linux,c,mysql,py,qt,vscode,php,powershell,idea&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,qt,vscode,idea&theme=dark)](https://skillicons.dev)
