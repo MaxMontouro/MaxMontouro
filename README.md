@@ -47,5 +47,5 @@ I currently use :
 </p>
 
 <h1> Setup : </h1> 
-*Laptop Dell Precision 3571 (i7-12700H, 32 GO DDR5, RTX A1000)
-*Personnal configuration (i9 9900k, 32 GO DDR4, GTX 1060 6 GO)
+*Laptop Dell Precision 3571 (i7-12700H, 32 GO DDR5, RTX A1000)  
+*Personnal configuration (i9 9900k, 32 GO DDR4, GTX 1060 6 GO)  
