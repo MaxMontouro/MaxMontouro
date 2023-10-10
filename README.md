@@ -24,9 +24,9 @@ More informations about me:
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,linkedin" />
+    <img src="https://skillicons.dev/icons?i=discord,linkedin, instagram" />
   </a>
 </p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,java,cpp,linux,c,discord,instagram,mysql,linkedin,py,qt,vscode,php,powershell,idea&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,java,cpp,linux,c,mysql,py,qt,vscode,php,powershell,idea&theme=dark)](https://skillicons.dev)
