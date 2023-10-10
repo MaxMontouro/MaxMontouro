@@ -14,4 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,java,cpp,linux,c,discord,instagram,mysql,linekdin,py,qt,vscode,php&theme=light)](https://skillicons.dev)
+More informations about me:
+-🔭 I’m currently working at IUT Bayonne et du Pays Basque
+-🌱 I’m currently learning C++, JS, HTML5, CSS3, Python, SQL or bash
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <p> My contacts</p>
+    <img src="https://skillicons.dev/icons?i=discord,linkedin,vim" />
+  </a>
+</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,java,cpp,linux,c,discord,instagram,mysql,linkedin,py,qt,vscode,php,powershell,idea&theme=dark)](https://skillicons.dev)
