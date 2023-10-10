@@ -20,7 +20,7 @@ More informations about me:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    **<p> My contacts</p>**
+    <p> My contacts</p>
     <img src="https://skillicons.dev/icons?i=discord,linkedin,vim" />
   </a>
 </p>
