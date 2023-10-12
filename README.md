@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 More informations about me:  
--🔭 I’m currently working at IUT Bayonne et du Pays Basque  
+-🔭 I’m currently working at IUT Bayonne et du Pays Basque  (student) 
 -🌱 I’m currently learning C++, JS, HTML5, CSS3, Python, SQL or bash...   
 
 <h1> My Contacts : </h1> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,linkedin,instagram,github" />
+    <img src="https://skillicons.dev/icons?i=linkedin,instagram,github,discord" />
   </a>
 </p>
 
