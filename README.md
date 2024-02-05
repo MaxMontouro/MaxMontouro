@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working at IUT Bayonne et du Pays Basque
 - 🌱 I’m currently learning C++, JS, HTML5, CSS3, Python, SQL or bash
 - 👯 I’m looking to collaborate on ...
@@ -16,7 +17,9 @@ Here are some ideas to get you started:
 -->
 More informations about me:  
 -🔭 I’m currently working at IUT Bayonne et du Pays Basque (student)   
--🌱 I’m currently learning C++, JS, HTML5, CSS3, Python, SQL or bash...   
+-🌱 I’m currently learning C++, JS, HTML5, CSS3, Python, SQL or bash...  
+
+![style](https://github.com/MaxMontouro/MaxMontouro/assets/119320172/dbfcf91f-f07f-45d9-8621-02330e25737e)  
 
 <h1> My Contacts : </h1> 
 <p align="center">
