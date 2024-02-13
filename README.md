@@ -52,7 +52,10 @@ I'm currently using :
 
 
 <h1> Setup : </h1>
-<div style="display:flex;flex-direction:column;align-items:center;justify-content:center;">
+<div>
+  <style>
+    display:flex;flex-direction:column;align-items:center;justify-content:center;
+  </style>
   <p align="right">
     <img src="https://github.com/MaxMontouro/MaxMontouro/assets/119320172/b174b38b-0f86-4415-a136-21dc6b299de8" width=300 height=200 />
   </p>
