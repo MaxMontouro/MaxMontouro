@@ -44,9 +44,8 @@ I'm currently using :
 
 <h1> OS : </h1> 
 <p align="center">
-   Debian addict, sometimes on Windows and Kali Linux and keen on discover new Linux distribution <br>
+   Debian addict, sometimes on Windows and Kali Linux and keen on discover new Linux distribution <br><br>
   <a href="https://skillicons.dev">
-   
   <img src="https://skillicons.dev/icons?i=linux,powershell&theme=dark" />
   </a>
 </p>
