@@ -54,8 +54,8 @@ I'm currently using :
 <h1> Setup : </h1>   
 <ul>
 <li>Laptop Dell Precision 3571 (i7-12700H, 32 GO DDR5, RTX A1000)</li>  
-<li>Personnal configuration (i9 9900k, 32 GO DDR4, GTX 1060 6 GO)</li>
-  <p align="center">
-    <img src="https://github.com/MaxMontouro/MaxMontouro/assets/119320172/b174b38b-0f86-4415-a136-21dc6b299de8" width=40 height=40 />
+    <p align="center">
+    <img src="https://github.com/MaxMontouro/MaxMontouro/assets/119320172/b174b38b-0f86-4415-a136-21dc6b299de8" width=100 height=100 />
   </p>
+<li>Personnal configuration (i9 9900k, 32 GO DDR4, GTX 1060 6 GO)</li>
 </ul>
