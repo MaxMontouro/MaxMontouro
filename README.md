@@ -29,7 +29,7 @@ More informations about me:
 <h1> LANGUAGES & FRAMEWORKS: </h1> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,py,php,mysql,powershell&theme=dark" />  <br>
+    <img src="https://skillicons.dev/icons?i=bash,py,c,php,cpp,mysql,powershell&theme=dark" />  <br>
     <img src="https://skillicons.dev/icons?i=java,ts,js,laravel&theme=dark" />  
   </a>
 </p>
