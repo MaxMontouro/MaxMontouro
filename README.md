@@ -54,7 +54,7 @@ I'm currently using :
 <h1> Setup : </h1>
 <div style="display:flex;flex-direction:column;align-items:center;justify-content:center;">
   <p align="right">
-    <img src="https://github.com/MaxMontouro/MaxMontouro/assets/119320172/b174b38b-0f86-4415-a136-21dc6b299de8" width=200 height=200 />
+    <img src="https://github.com/MaxMontouro/MaxMontouro/assets/119320172/b174b38b-0f86-4415-a136-21dc6b299de8" width=300 height=200 />
   </p>
   <ul>
     <li>Laptop Dell Precision 3571 (i7-12700H, 32 GO DDR5, RTX A1000)</li>  
