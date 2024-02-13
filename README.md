@@ -29,8 +29,8 @@ More informations about me:
 <h1> LANGUAGES & FRAMEWORKS: </h1> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,php,java,mysql,bash,powershell&theme=dark" />  <br>
-    <img src="https://skillicons.dev/icons?i=ts,js,laravel&theme=dark" />  
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,py,php,mysql,powershell&theme=dark" />  <br>
+    <img src="https://skillicons.dev/icons?i=java,ts,js,laravel&theme=dark" />  
   </a>
 </p>
 
@@ -38,8 +38,7 @@ More informations about me:
 <h1> TECHNOLOGIES  & APP : </h1> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />  <br>
-    <img src="https://skillicons.dev/icons?i=figma&theme=dark" />  
+    <img src="https://skillicons.dev/icons?i=github,git,figma&theme=dark" />
   </a>
 </p>
 
