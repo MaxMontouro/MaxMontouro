@@ -22,14 +22,23 @@ More informations about me:
 <h1> My Contacts : </h1> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,instagram,github,discord,gmail" />
+    <img src="https://skillicons.dev/icons?i=github,linkedin,instagram,discord,gmail" />
   </a>
 </p>
 
 <h1> LANGUAGES : </h1> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,php,java,mysql,linux,powershell&theme=dark" />  
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,php,java,mysql,bash,powershell&theme=dark" />  <br>
+    <img src="https://skillicons.dev/icons?i=ts,js,&theme=dark" />  
+  </a>
+</p>
+
+
+<h1> TECHNOLOGIES & FRAMEWORKS : </h1> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,laravel,&theme=dark" />  <br>
     <img src="https://skillicons.dev/icons?i=html,css,js,git&theme=dark" />  
   </a>
 </p>
