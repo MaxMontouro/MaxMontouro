@@ -22,7 +22,7 @@ More informations about me:
 <h1> My Contacts : </h1> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,instagram,github,discord" />
+    <img src="https://skillicons.dev/icons?i=linkedin,instagram,github,discord,gmail" />
   </a>
 </p>
 
