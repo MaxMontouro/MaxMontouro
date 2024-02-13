@@ -30,7 +30,7 @@ More informations about me:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,py,c,php,cpp,mysql,powershell&theme=dark" />  <br>
-    <img src="https://skillicons.dev/icons?i=java,ts,js,bottstrap,laravel&theme=dark" />  
+    <img src="https://skillicons.dev/icons?i=java,ts,js,bootstrap,laravel&theme=dark" />  
   </a>
 </p>
 
