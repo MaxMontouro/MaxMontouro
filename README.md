@@ -26,20 +26,20 @@ More informations about me:
   </a>
 </p>
 
-<h1> LANGUAGES : </h1> 
+<h1> LANGUAGES & FRAMEWORKS: </h1> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,php,java,mysql,bash,powershell&theme=dark" />  <br>
-    <img src="https://skillicons.dev/icons?i=ts,js,&theme=dark" />  
+    <img src="https://skillicons.dev/icons?i=ts,js,laravel&theme=dark" />  
   </a>
 </p>
 
 
-<h1> TECHNOLOGIES & FRAMEWORKS : </h1> 
+<h1> TECHNOLOGIES  & APP : </h1> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,laravel,&theme=dark" />  <br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,git&theme=dark" />  
+    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />  <br>
+    <img src="https://skillicons.dev/icons?i=figma&theme=dark" />  
   </a>
 </p>
 
