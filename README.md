@@ -44,7 +44,10 @@ I'm currently using :
 
 <h1> OS : </h1> 
 <p align="center">
+  <a href="https://skillicons.dev">
     Debian addict, sometimes on Windows and Kali Linux and keen on discover new Linux distribution
+  <img src="https://skillicons.dev/icons?i=linux,powershell&theme=dark" />
+  </a>
 </p>
 
 <h1> Setup : </h1>   
