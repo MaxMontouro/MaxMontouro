@@ -38,7 +38,7 @@ More informations about me:
 <h1> TECHNOLOGIES  & APP : </h1> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=github,git,figma,wordpress,notion&theme=dark" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@ I'm currently using :
 <p align="center">
    Debian addict, sometimes on Windows and Kali Linux and keen on discover new Linux distribution <br><br>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,powershell&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,powershell,debian,windows,kalilinux&theme=dark" />
   </a>
 </p>
 
