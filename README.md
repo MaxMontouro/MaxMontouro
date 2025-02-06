@@ -54,7 +54,7 @@ I'm currently using :
 <p align="center">
    Debian addict, sometimes on Windows and Kali Linux and keen on discover new Linux distribution <br><br>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,powershell,debian,windows,kalilinux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,powershell,debian,windows,kali&theme=dark" />
   </a>
 </p>
 
