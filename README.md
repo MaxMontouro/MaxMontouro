@@ -42,7 +42,7 @@ More informations about me:
   </a>
 </p>
 
-<h1> IDE : </h1> 
+<h1> IDE & TOOLS : </h1> 
 I'm currently using :  
 <p align="center">
   <a href="https://skillicons.dev">
