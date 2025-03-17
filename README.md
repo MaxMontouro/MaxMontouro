@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 More informations about me:  
--🔭 I’m currently working at IUT Bayonne et du Pays Basque (student) => Soon @Ecole2600🇫🇷🏴‍☠️       
+-🔭 I’m currently working at IUT Bayonne et du Pays Basque (student) => Soon <a href="2600.eu">@Ecole2600🇫🇷🏴‍☠️</a>       
 -🌱 I’m currently learning C++, JS, PHP, C, Python, SQL or bash...  
 
 <h1>Contacts : </h1> 
