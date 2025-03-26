@@ -10,8 +10,6 @@
   - [IDE and TOOLS](#ide-and-tools)
   - [OS](#os)
   - [SETUP](#setup)
-- [Sauvegarde du projet](#sauvegarde-du-projet)
-
 <!--
 **MaxMontouro/MaxMontouro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
