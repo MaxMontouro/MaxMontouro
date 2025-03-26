@@ -5,7 +5,7 @@
 - [WHOAMI](#whoami)
 - [INFORMATIONS](#informations)
   - [Contacts](#contacts)
-  - [Langage and Frameworks](#langages-and-frameworks)
+  - [Languages and Frameworks](#languages-and-frameworks)
   - [Technologies and App](#technologies-and-app)
   - [IDE and TOOLS](#ide-and-tools)
   - [OS](#os)
