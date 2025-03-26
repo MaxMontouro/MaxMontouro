@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 ## Table of Contents
 
 - [WHOAMI](#whoami)
@@ -10,7 +10,7 @@
   - [IDE and TOOLS](#ide-and-tools)
   - [OS](#os)
   - [SETUP](#setup)
-<!--
+
 **MaxMontouro/MaxMontouro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
