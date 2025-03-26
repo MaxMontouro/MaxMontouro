@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+## Table of Contents
+
+- [WHOAMI](#whoami)
+- [INFORMATIONS](#informations)
+  - [Contacts](#contacts)
+  - [Langage and Frameworks](#langages-and-frameworks)
+  - [Technologies and App](#technologies-and-app)
+  - [IDE and TOOLS](#ide-and-tools)
+  - [OS](#os)
+  - [SETUP](#setup)
+- [Sauvegarde du projet](#sauvegarde-du-projet)
+
 <!--
 **MaxMontouro/MaxMontouro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,18 +27,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-More informations about me:  
+
+## WHOAMI 🫡
+> [!TIP]
+> More informations about me:  
+
 -🔭 I’m currently working at IUT Bayonne et du Pays Basque (student) => Soon <a href="https://2600.eu">@Ecole2600🇫🇷🏴‍☠️</a>       
 -🌱 I’m currently learning C++, JS, PHP, C, Python, SQL or bash...  
 
-<h1>Contacts : </h1> 
+---
+# INFORMATIONS 
+
+## Contacts : 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,linkedin,instagram,discord,gmail" />
   </a>
 </p>
 
-<h1> LANGUAGES & FRAMEWORKS: </h1> 
+## LANGUAGES AND FRAMEWORKS : 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,py,c,php,cpp,mysql,powershell&theme=dark" />  <br>
@@ -35,14 +54,14 @@ More informations about me:
 </p>
 
 
-<h1> TECHNOLOGIES  & APP : </h1> 
+## TECHNOLOGIES AND APP : 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,figma,wordpress,notion&theme=dark" />
   </a>
 </p>
 
-<h1> IDE & TOOLS : </h1> 
+## IDE AND TOOLS :
 I'm currently using :  
 <p align="center">
   <a href="https://skillicons.dev">
@@ -50,7 +69,7 @@ I'm currently using :
   </a>
 </p>
 
-<h1> OS : </h1> 
+## OS : 
 <p align="center">
    Debian addict, sometimes on Windows and Kali Linux and keen on discover new Linux distribution <br><br>
   <a href="https://skillicons.dev">
@@ -59,7 +78,7 @@ I'm currently using :
 </p>
 
 
-<h1> Setup : </h1>
+## Setup : 
 <div style="display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <ul>
       <li>Laptop Dell Precision 3571 (i7-12700H, 32 GO DDR5, RTX A1000)</li>  
